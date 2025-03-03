@@ -1,0 +1,10 @@
+.container{
+    border: dotted 3px goldenrod;
+}
+.inner_container{
+    border: solid 4px purple;
+    margin: 5%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
